@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### My badges
+[![Badge Name](https://images.credly.com/size/220x220/images/bb40add8-8f45-460c-adbb-a603c3686f85/blob)](https://www.credly.com/badges/7bb29f7b-7461-4a8b-9433-78862b6d9c51)
+
 <!--
 **Thodd/Thodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
