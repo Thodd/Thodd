@@ -2,8 +2,10 @@
 
 Checkout my pinned repos for some fun stuff :)
 
-### My badges
-[![Badge Name](https://images.credly.com/size/220x220/images/bb40add8-8f45-460c-adbb-a603c3686f85/blob)](https://www.credly.com/badges/7bb29f7b-7461-4a8b-9433-78862b6d9c51)
+<div align="center" width="440px">
+  <a href="https://www.credly.com/badges/7bb29f7b-7461-4a8b-9433-78862b6d9c51"><img src="https://images.credly.com/size/220x220/images/bb40add8-8f45-460c-adbb-a603c3686f85/blob" /></a>
+  <a href="https://www.credly.com/badges/73d14930-f7e1-4735-9b3e-0bb8151ddf1d"><img src="https://images.credly.com/size/220x220/images/2ba798ed-69c2-49f5-81e3-f4564ea82346/blob" /></a>
+</div>
 
 <!--
 **Thodd/Thodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
